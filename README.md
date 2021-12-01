@@ -1,6 +1,6 @@
 # 2021 Advent of Code
 
-Repo for my Advent of Code solutions
+Repo for python Advent of Code solutions
 
 https://adventofcode.com/2021
 
@@ -33,3 +33,9 @@ https://adventofcode.com/2021
 | 23 | Incomplete | Incomplete |
 | 24 | Incomplete | Incomplete |
 | 25 | Incomplete | Incomplete |
+| 26 | Incomplete | Incomplete |
+| 27 | Incomplete | Incomplete |
+| 28 | Incomplete | Incomplete |
+| 29 | Incomplete | Incomplete |
+| 30 | Incomplete | Incomplete |
+| 31 | Incomplete | Incomplete |
