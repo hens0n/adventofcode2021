@@ -1,4 +1,4 @@
-file1 = open('part1_input', 'r')
+file1 = open('input', 'r')
 Lines = file1.readlines()
 
 previous_line=0

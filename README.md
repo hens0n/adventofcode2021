@@ -9,7 +9,7 @@ https://adventofcode.com/2021
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | [01](https://adventofcode.com/2021/day/1) | [Complete](/day01/part1.py) | [Complete](/day01/part2.py) |
-| [02](https://adventofcode.com/2021/day/2) | Incomplete | Incomplete |
+| [02](https://adventofcode.com/2021/day/2) | [Complete](/day02/part1.py) | [Complete](/day02/part2.py) |
 | 03 | Incomplete | Incomplete |
 | 04 | Incomplete | Incomplete |
 | 05 | Incomplete | Incomplete |

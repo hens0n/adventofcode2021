@@ -1,6 +1,6 @@
 # python3 -m pip install numpy
 import numpy as np
-file1 = open('part1_input.txt', 'r')
+file1 = open('input.txt', 'r')
 Lines = file1.readlines()
 
 previous_window=0
