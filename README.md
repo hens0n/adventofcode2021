@@ -1,6 +1,6 @@
 # 2021 Advent of Code
 
-Repo for python Advent of Code solutions
+Repo for my python Advent of Code solutions
 
 https://adventofcode.com/2021
 
