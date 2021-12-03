@@ -1,0 +1,3 @@
+Oxygen generator rating:011001100111(1639)
+CO2 scrubber rating:101010000100(2692)
+life support rating:4412188
