@@ -1,0 +1,1 @@
+gamma:1508, epsilon:2587, power consumption:3901196 
