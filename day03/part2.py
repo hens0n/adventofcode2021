@@ -47,7 +47,6 @@ for i in range(columns):
 			common = 1
 		co2_list = filter_list(co2_list,i,common)
 
-int(oxygen_list[0],2)
 print("Oxygen generator rating:{}({})".format(oxygen_list[0],int(oxygen_list[0],2)))	
 print("CO2 scrubber rating:{}({})".format(co2_list[0],int(co2_list[0],2)))
 print("life support rating:{}".format(int(oxygen_list[0],2)*int(co2_list[0],2)))		
