@@ -30,11 +30,12 @@ def apply_rules(rules,template):
 def grow(template,rules, steps):
     for i in range(steps):
         template = apply_rules(rules,template)
-        print('After step {}: Len {}'.format(i+1,len(template)))
+        # print('After step {}: Len {}'.format(i+1,len(template)))
         counts = Counter(template)
         # print(counts)
-        find_max = max(counts.values())
-        find_min =min(counts.values())
+    # print(template)
+    find_max = max(counts.values())
+    find_min =min(counts.values())
     print('Max:{}, Min:{}, Dif:{}'.format(find_max,find_min,find_max-find_min))
 
 
@@ -67,6 +68,7 @@ CN -> C""".splitlines()
     print('Template:     {}'.format(template))
     # print(rules) 
     grow(template,rules,10)
+
 
 
     rules, template  = parse_input(input)
