@@ -24,9 +24,9 @@ https://adventofcode.com/2021
 | [14](https://adventofcode.com/2021/day/14)| [Complete](/day14/part1.py) | [Complete](/day14/part2.py) |
 | [15](https://adventofcode.com/2021/day/15)| Incomplete                  | Incomplete                  |
 | [16](https://adventofcode.com/2021/day/16)| Incomplete                  | Incomplete                  |
-| [17](https://adventofcode.com/2021/day/17)| Incomplete                  | Incomplete                  |
+| [17](https://adventofcode.com/2021/day/17)| [Complete](/day17/part1.py) | [Complete](/day17/part1.py) |
 | [18](https://adventofcode.com/2021/day/18)| Incomplete                  | Incomplete                  |
-| [19](https://adventofcode.com/2021/day/19)|Incomplete                   | Incomplete                  |
+| [19](https://adventofcode.com/2021/day/19)| Incomplete                  | Incomplete                  |
 | [20](https://adventofcode.com/2021/day/20)| Incomplete                  | Incomplete                  |
 | [21](https://adventofcode.com/2021/day/21)| Incomplete                  | Incomplete                  |
 | [22](https://adventofcode.com/2021/day/22)| Incomplete                  | Incomplete                  |
